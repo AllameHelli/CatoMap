@@ -1,0 +1,3 @@
+title=Joystick
+author=Rastin
+orientation=landscape
